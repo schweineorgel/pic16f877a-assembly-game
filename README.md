@@ -30,10 +30,12 @@ El renderizado se realiza sobre una matriz LED 8×8, controlada directamente des
 - **Entorno:** MPLAB / Simulación o hardware real  
 
 ## Estructura
+```
 /
 ├── main.asm # Código fuente completo del juego
 ├── simulide/
 │ └── WallDash.sim1
+```
 
 ## Contexto académico
 Este proyecto fue desarrollado como parte de la **Evaluación Sumativa 1** de la asignatura **Sistemas Electrónicos Programables (IMSP01)**.
