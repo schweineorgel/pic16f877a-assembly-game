@@ -4,8 +4,6 @@
 
 > Proyecto desarrollado durante el cuarto semestre de la carrera de Ingeniería en Electrónica y Sistemas Inteligentes (INACAP).
 
-> Proyecto desarrollado durante el cuarto semestre de la carrera de Ingeniería en Electrónica y Sistemas Inteligentes (INACAP).
-
 ## Descripción
 Juego desarrollado completamente en Assembly para el microcontrolador PIC16F877A.
 El proyecto implementa lógica de juego en tiempo real, generación pseudoaleatoria de obstáculos, detección de colisiones, sistema de niveles y control por interrupciones.
