@@ -13,7 +13,7 @@ El renderizado se realiza sobre una matriz LED 8×8, controlada directamente des
 ## Características
 - Control del jugador mediante **interrupciones por cambio en PORTB**
 - Obstáculos verticales y horizontales
-- Generación pseudoaleatoria de huecos
+- Generación pseudoaleatoria de huecos en paredes
 - Sistema de vidas (3)
 - Aumento progresivo de dificultad por nivel
 - Renderizado directo mediante **PORTC (filas)** y **PORTD (columnas)**
