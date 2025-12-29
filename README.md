@@ -2,6 +2,8 @@
 
 <img width="1920" height="1152" alt="Screenshot 2025-12-28 210239" src="https://github.com/user-attachments/assets/1113e7e5-3f90-4b12-aeea-bf295917c844" />
 
+> Proyecto desarrollado durante el cuarto semestre de la carrera de Ingeniería en Electrónica y Sistemas Inteligentes (INACAP).
+
 ## Descripción
 Juego desarrollado completamente en Assembly para el microcontrolador PIC16F877A.
 El proyecto implementa lógica de juego en tiempo real, generación pseudoaleatoria de obstáculos, detección de colisiones, sistema de niveles y control por interrupciones.
