@@ -1,0 +1,8 @@
+# MPLAB X projects
+*.X/
+*.X/**
+
+# Build artifacts
+dist/
+build/
+nbproject/private/
