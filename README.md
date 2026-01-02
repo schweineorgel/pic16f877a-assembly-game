@@ -1,3 +1,6 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![Status](https://img.shields.io/badge/status-stable-green)
+
 # PIC16F877A – Juego en Assembly
 
 ![Gameplay del juego](assets/proof-of-concept.gif)
